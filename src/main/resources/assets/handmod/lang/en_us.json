@@ -1,0 +1,13 @@
+{
+  "item.handmod.scalpel": "Scalpel",
+  "item.handmod.needle": "Needle and Thread",
+  "item.handmod.severed_arm": "Severed Arm",
+  "message.handmod.cut_right": "You cut off your right arm!",
+  "message.handmod.cut_left": "You cut off your left arm!",
+  "message.handmod.no_arms_left": "You have no arms left to cut off.",
+  "message.handmod.sewn_right": "You sewed your right arm back on.",
+  "message.handmod.sewn_left": "You sewed your left arm back on.",
+  "message.handmod.nothing_to_sew": "You already have both arms.",
+  "message.handmod.need_arm": "You need a Severed Arm in your inventory.",
+  "message.handmod.no_arm_here": "You have no arm for that hand!"
+}

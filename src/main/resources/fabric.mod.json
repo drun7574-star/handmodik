@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "handmod",
+  "version": "1.0.0",
+  "name": "Hand Mod",
+  "description": "Отрежь себе руки скальпелем и пришей обратно иглой.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.handmod.HandMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

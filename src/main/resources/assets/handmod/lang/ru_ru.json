@@ -1,0 +1,13 @@
+{
+  "item.handmod.scalpel": "Скальпель",
+  "item.handmod.needle": "Игла с нитью",
+  "item.handmod.severed_arm": "Отрезанная рука",
+  "message.handmod.cut_right": "Вы отрезали себе правую руку!",
+  "message.handmod.cut_left": "Вы отрезали себе левую руку!",
+  "message.handmod.no_arms_left": "Рук больше не осталось.",
+  "message.handmod.sewn_right": "Вы пришили правую руку.",
+  "message.handmod.sewn_left": "Вы пришили левую руку.",
+  "message.handmod.nothing_to_sew": "У вас обе руки на месте.",
+  "message.handmod.need_arm": "Нужна «Отрезанная рука» в инвентаре.",
+  "message.handmod.no_arm_here": "У вас нет руки для этого действия!"
+}
